@@ -1,1 +1,4 @@
 .DS_Store
+
+firmata_DCMotor/node_modules/
+firmata_DCMotor/npm-debug.log
